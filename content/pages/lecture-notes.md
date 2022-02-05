@@ -8,22 +8,225 @@ There is no textbook for this class. Students were strongly encouraged to study 
 
 All syntax trees in the lecture notes (except for Class 16) are by Prof. Sabine Iatridou and redrawn by MIT OpenCourseWare.
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | The Hierarchical Organization of Language | [Class 1 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class1) |
-| 2 | More on Building Syntactic Trees; Plus Locality Considerations; Theta-Roles | [Class 2 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class2) |
-| 3 | More on Theta-Roles; Case; Basics of Binding Theory | [Class 3 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit24_902f15_class3) |
-| 4 | Binding Theory; Syntactic Movement; Embedded vs. Matrix Questions; and Wh-movement | [Class 4 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class4) |
-| 5 | Islands and Movement | [Class 5 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class5) |
-| 6 | Verb Movement | [Class 6 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class6) |
-| 8 | A-movement  | [Class 8 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class8) |
-| 9 | More on Movement | [Class 9 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class9) |
-| 10 | The Uniformity of Theta Assignment Hypothesis (UTAH) | [Class 10 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class10) |
-| 11 | Empirical Arguments for PRO | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 11 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class11) |
-| 12 | Obligatory and Non-obligatory Control | [Class 12 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class12) |
-| 13 | Pro versus PRO | [Class 13 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class13) |
-| 14 | Covert Movement | [Class 14 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class14) |
-| 15 | Tense and Aspect | [Class 15 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class15) |
-| 16 | Polysynthesis | [Class 16 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class16) - Lecture notes for this session provided by the teaching assistant, Michelle Yuan. |
-| 17 | Conditionals | [Class 17 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class17) |
-| 19 | Free Relatives | [Class 19 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class19)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Hierarchical Organization of Language
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 1 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+More on Building Syntactic Trees; Plus Locality Considerations; Theta-Roles
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 2 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+More on Theta-Roles; Case; Basics of Binding Theory
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 3 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit24_902f15_class3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Binding Theory; Syntactic Movement; Embedded vs. Matrix Questions; and Wh-movement
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 4 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Islands and Movement
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 5 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Verb Movement
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 6 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+A-movement 
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 8 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+More on Movement
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 9 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Uniformity of Theta Assignment Hypothesis (UTAH)
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 10 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Empirical Arguments for PRO
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 11 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Obligatory and Non-obligatory Control
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 12 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Pro versus PRO
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 13 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Covert Movement
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 14 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Tense and Aspect
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 15 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Polysynthesis
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 16 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class16) - Lecture notes for this session provided by the teaching assistant, Michelle Yuan.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Conditionals
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 17 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Free Relatives
+{{< tdclose >}}
+{{< tdopen >}}
+[Class 19 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class19)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
