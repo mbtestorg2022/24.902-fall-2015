@@ -140,7 +140,7 @@ The Uniformity of Theta Assignment Hypothesis (UTAH)
 Empirical Arguments for PRO
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 11 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class11)
+[Class 11 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class11)
 {{< tdclose >}}
 
 {{< trclose >}}
