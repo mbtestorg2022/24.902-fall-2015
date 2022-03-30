@@ -21,7 +21,7 @@ This class has its precursors in courses taught by David Pesetsky, Omer Preminge
 Prerequisites
 -------------
 
-[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012/)
+[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012)
 
 Requirements
 ------------
